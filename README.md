@@ -19,7 +19,7 @@ Entrada e Saída de Dados: Interação com o console.
 🛠 Tecnologias Utilizadas
 Java Development Kit (JDK): Versões compatíveis, como JDK 8 ou mais recente.
 
-IDE: Principalmente IntelliJ IDEA.
+IDE: Principalmente IntelliJ IDEA ou Eclipse.
 
 🗃 Organização
 Cada pasta neste repositório corresponde a um conjunto de exercícios, um módulo específico ou um pequeno projeto, seguindo a estrutura e a progressão das aulas do curso técnico.
