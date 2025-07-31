@@ -1,4 +1,4 @@
-#☕ Atividades em Java – Curso de Desenvolvimento de Sistemas
+# ☕ Atividades em Java – Curso de Desenvolvimento de Sistemas
 Repositório com as atividades e exercícios práticos que desenvolvi durante o curso técnico de Desenvolvimento de Sistemas, com foco na linguagem Java.
 
 Esses exercícios foram criados para aplicar os conceitos aprendidos em sala de aula, desde o básico da linguagem até tópicos mais avançados de programação orientada a objetos.
