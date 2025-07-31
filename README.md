@@ -29,21 +29,29 @@ Cada pasta neste repositório corresponde a um conjunto de exercícios, um módu
 Para rodar o código, você precisará ter o JDK (Java Development Kit) instalado em sua máquina.
 
 Clone o repositório:
+
 git clone https://github.com/brendahidalgos/Atividades_Java.git
 
 Navegue até a pasta da atividade desejada:
+
 cd Atividades_Java/NomeDaPastaDaAtividade/
+
 (Ex: cd Atividades_Java/CalculadoraComissão/)
 
 Compile o código Java:
+
 Se houver um arquivo .java principal (Ex: Main.java):
+
 javac NomeDoArquivoPrincipal.java
 
 Ou para compilar todos os arquivos na pasta:
+
 javac *.java
 
 Execute o programa:
+
 java NomeDaClassePrincipal
+
 (Ex: java Main)
 
 👩‍💻 Desenvolvido em
