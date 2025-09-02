@@ -1,8 +1,6 @@
 # ☕ Atividades em Java – Curso de Desenvolvimento de Sistemas
 Repositório com as atividades e exercícios práticos que desenvolvi durante o curso técnico de Desenvolvimento de Sistemas, com foco na linguagem Java.
 
-Esses exercícios foram criados para aplicar os conceitos aprendidos em sala de aula, desde o básico da linguagem até tópicos mais avançados de programação orientada a objetos.
-
 ## 📚 Conteúdo Abordado
 - Aqui você encontrará a aplicação prática dos seguintes conceitos:
 
@@ -10,7 +8,7 @@ Esses exercícios foram criados para aplicar os conceitos aprendidos em sala de 
 
 - Estruturas de controle: Condicionais (if, else, switch) e laços de repetição (for, while, do-while).
 
-- Manipulação de Arrays e Collections: ArrayList, LinkedList, HashMap, etc.
+- Manipulação de Arrays.
 
 - Tratamento de Exceções: Uso de try-catch-finally e criação de exceções personalizadas.
 
@@ -20,7 +18,7 @@ Esses exercícios foram criados para aplicar os conceitos aprendidos em sala de 
 
 - Java Development Kit (JDK): Versões compatíveis, como JDK 8 ou mais recente.
 
-- IDE: Principalmente IntelliJ IDEA ou Eclipse.
+- IDE: IntelliJ IDEA ou Eclipse.
 
 ## 🗃 Organização
 Cada pasta neste repositório corresponde a um conjunto de exercícios, um módulo específico ou um pequeno projeto, seguindo a estrutura e a progressão das aulas do curso técnico.
@@ -30,13 +28,13 @@ Para rodar o código, você precisará ter o JDK (Java Development Kit) instalad
 
 **Clone o repositório:**
 
-- git clone https://github.com/brendahidalgos/Atividades_Java.git
+- git clone https://github.com/brendahidalgos/Atividades_Java_DS.git
 
 **Navegue até a pasta da atividade desejada:**
 
-- cd Atividades_Java/NomeDaPastaDaAtividade/
+- cd Atividades_Java_DS/NomeDaPastaDaAtividade/
 
-- (Ex: cd Atividades_Java/CalculadoraComissão/)
+- (Ex: cd Atividades_Java_DS/CalculadoraComissão/)
 
 **Compile o código Java:**
 
