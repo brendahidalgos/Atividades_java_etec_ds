@@ -8,10 +8,11 @@ public class Lojaonline {
         double descontoDez;
         double descontoQuinze;
 
-        Scanner leitor = new Scanner(System.in); //biblioteca scanner
-        //Entrada de dados
-        System.out.print("Digite o valor total da compra: R$ ");//Escreva o valor da compra
-        valorCompra = leitor.nextDouble(); //Armazena o valor da compra
+        try (Scanner leitor = new Scanner(System.in)) {
+            //Entrada de dados
+            System.out.print("Digite o valor total da compra: R$ ");//Escreva o valor da compra
+            valorCompra = leitor.nextDouble(); //Armazena o valor da compra
+        }
         //Atribuição dos valores de desconto
         descontoCinco = valorCompra * 0.05;//multiplicando o valor da compra por 5% de desconto
         descontoDez = valorCompra * 0.10;//multiplicando o valor da compra por 10% de desconto
