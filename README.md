@@ -17,7 +17,7 @@ Aqui você encontrará a aplicação prática dos seguintes conceitos:
 ## 🛠 Tecnologias Utilizadas
 
 * **Java Development Kit (JDK)**: Versões compatíveis (Recomenda-se JDK 8 ou mais recente).
-* **IDE (Ambiente de Desenvolvimento)**: IntelliJ IDEA ou Eclipse.
+* **IDE (Ambiente de Desenvolvimento)**: IntelliJ IDEA.
 
 ## ⚙️ Como Executar as Atividades
 
