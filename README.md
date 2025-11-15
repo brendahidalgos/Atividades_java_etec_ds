@@ -64,10 +64,6 @@ Se tiver alguma dúvida ou sugestão, pode me chamar!
 
 * **GitHub**: [@brendahidalgos](https://github.com/brendahidalgos)
 
-## 📄 Licença
-
-Este projeto está distribuído sob a Licença **MIT**.
-
 ## ✍️ Autor
 
 * **@brendahidalgos** - Aluna do curso de Análise e Desenvolvimento de Sistemas.
