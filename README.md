@@ -67,3 +67,7 @@ Se tiver alguma dúvida ou sugestão, pode me chamar!
 ## 📄 Licença
 
 Este projeto está distribuído sob a Licença **MIT**.
+
+## ✍️ Autor
+
+* **@brendahidalgos** - Aluna do curso de Análise e Desenvolvimento de Sistemas.
